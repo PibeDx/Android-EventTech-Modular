@@ -1,1 +1,9 @@
 include ':app'
+
+include ':domain'
+include ':data'
+include ':common'
+
+project(':domain').projectDir = new File(settingsDir, '../EventTech-Core/domain')
+project(':data').projectDir = new File(settingsDir, '../EventTech-Core/data')
+project(':common').projectDir = new File(settingsDir, '../EventTech-Core/common')
