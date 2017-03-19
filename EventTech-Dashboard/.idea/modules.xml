@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/EventTech-Dashboard.iml" filepath="$PROJECT_DIR$/EventTech-Dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-dashboard/module-dashboard.iml" filepath="$PROJECT_DIR$/module-dashboard/module-dashboard.iml" />
     </modules>
   </component>
 </project>
