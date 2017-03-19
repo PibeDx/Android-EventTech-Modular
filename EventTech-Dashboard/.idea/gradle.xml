@@ -7,6 +7,9 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
+            <option value="$PROJECT_DIR$/../EventTech-Core/common" />
+            <option value="$PROJECT_DIR$/../EventTech-Core/data" />
+            <option value="$PROJECT_DIR$/../EventTech-Core/domain" />
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/module-dashboard" />
